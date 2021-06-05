@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../terraform-project/project-1"
+		},
+		{
+			"path": "../Splunk"
+		},
+		{
+			"path": "../Vodafone GitHub"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
